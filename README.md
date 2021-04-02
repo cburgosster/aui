@@ -1,5 +1,6 @@
 ### Project only accepting patches
 This project is not actively developed but *will* accept Pull Requests.
+#The definitive guide of Arch installer
 
 <h1 align="center">
   <a href=https://www.archlinux.org/>Archlinux</a> Ultimate Installer
